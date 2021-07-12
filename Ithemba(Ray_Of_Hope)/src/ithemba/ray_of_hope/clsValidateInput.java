@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author Siviwe
+ * @author Sanele
  */
 public class clsValidateInput {
     
