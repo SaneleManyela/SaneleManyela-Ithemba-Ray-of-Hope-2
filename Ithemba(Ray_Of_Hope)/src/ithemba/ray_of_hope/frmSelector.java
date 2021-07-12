@@ -9,7 +9,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Siviwe
+ * @author Sanele
  */
 public class frmSelector extends javax.swing.JDialog {
 
