@@ -7,7 +7,7 @@ package ithemba.ray_of_hope;
 
 /**
  *
- * @author Siviwe
+ * @author Sanele
  */
 public class IthembaRay_Of_Hope {
 
