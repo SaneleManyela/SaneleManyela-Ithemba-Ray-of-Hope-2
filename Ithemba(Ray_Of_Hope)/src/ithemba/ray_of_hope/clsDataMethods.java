@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Siviwe
+ * @author Sanele
  */
 public class clsDataMethods {
     
