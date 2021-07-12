@@ -12,7 +12,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Siviwe
+ * @author Sanele
  */
 public class frmRegisterAndManagePolicies extends javax.swing.JDialog {
 
