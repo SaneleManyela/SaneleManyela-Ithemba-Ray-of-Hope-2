@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Siviwe
+ * @author Sanele
  */
 public class frmView extends javax.swing.JDialog {
 
